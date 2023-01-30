@@ -1,0 +1,25 @@
+#definir una clase
+class operaciones:
+
+    self.numero1=10
+    self.numero2=20
+    
+#definir metodos
+    def sumar(self):
+
+        suma= self.numero1+ self.numero2
+        print ("La suma es: ", suma)
+
+    def teclado(self):
+
+        self.numero1= int(imput("Introduzca el primer numero ")
+        self.numero2= int(imput("Introduzca el segundo numero ")
+
+    def restar(self):
+
+        resta= self.numero1 - self.numero2
+        print("La resta es: ", resta)
+
+    def multiplicar (self):
+        mult= self.numero1* self.numero2
+        print("La multiplicacion es: ", multi)
